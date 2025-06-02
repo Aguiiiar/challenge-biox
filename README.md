@@ -24,5 +24,5 @@ npm run test
 Para acessar a documentação. Use:
 
 ```
-/docs-api
+https://challenge-biox.fly.dev/docs-api
 ```
